@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WidgetsTextView</string>
+    <string name="string_01">화면에보여질글자 01</string>
+    <string name="test">"뉴라인\n테스트"</string>
+    <string name="string_02">화면에보여질글자 02</string>
+    <string name="new_string">New String</string>
+
+</resources>

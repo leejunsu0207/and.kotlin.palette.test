@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_dimen">24sp</dimen> <!--텍스트 크기는 sp사용-->
+    <dimen name="size_dimen">24dp</dimen> <!--일반적인 크기는 dp사용-->
+</resources>
